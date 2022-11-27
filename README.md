@@ -1,1 +1,1 @@
-# KATHIR_Distance-Indicate-card-by-aridino-
+# KATHIR_Distance-Indicate-card-by-arduino
